@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**azamrezaii/azamrezaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# fadak 
 
-Here are some ideas to get you started:
+## rezaii 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ostad asadi
+
+this is **txte bold**
+
+this is *txte italic*
+
+this is ***txte bold & ttalic***
+
+```python
+a=0
+print=(a)
+```
+
+- python
+- deep learing
+  - rnn
+  - cnn
+- nlp
+
+
+> this is test
+> >this is another
+
+![skill](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/292px-FullMoon2010.jpg)
+
+
